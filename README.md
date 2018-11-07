@@ -2,6 +2,12 @@
 ###### iOS application with a minimalistic interface used to create memes in simple steps.
 
 ## Screenshots
+<p>
+  <img src="https://user-images.githubusercontent.com/37724969/48115955-6ddc1600-e219-11e8-93a6-3d47ea08d01a.png" width="200" alt="sc1">
+  <img src="https://user-images.githubusercontent.com/37724969/48115954-6ddc1600-e219-11e8-8c0e-10bae2a3e319.png" width="200" alt="sc2">
+  <img src="https://user-images.githubusercontent.com/37724969/48115956-6ddc1600-e219-11e8-9df3-c457f84394b8.png" width="200" alt="sc3">
+  <img src="https://user-images.githubusercontent.com/37724969/48115957-6ddc1600-e219-11e8-9c7e-70df0bde2eb2.png" width="200" alt="sc4">
+</p>
 
 ## Main features
 - Simple and intuitive UI
